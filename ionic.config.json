@@ -1,0 +1,7 @@
+{
+  "name": "UH1_C14180115",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
